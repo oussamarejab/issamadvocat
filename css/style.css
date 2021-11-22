@@ -6609,3 +6609,9 @@ h6 {
     background: #37db21;
     border-radius: 10px;
 }
+
+.phonecall {
+    background: rgb(233, 220, 41);
+    color: rgb(70, 76, 235);
+    border-radius: 10px;
+}
